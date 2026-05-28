@@ -42,21 +42,4 @@ IoT Enthusiast | Embedded Systems Developer | Computer Engineering Student at HC
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Smart Traffic Light System
-- Designed a digital logic-based traffic light controller using FSM.
-- Implemented and simulated on FPGA using Verilog and Vivado.
-
-### 🔹 ESP32-S3 Multimodal TinyML
-- Deployed TinyML models on ESP32-S3.
-- Real-time voice and gesture recognition.
-
-### 🔹 Distributed IoT Gateway
-- ESP32 gateway communicating with STM32 nodes.
-- UART + MQTT architecture for cloud monitoring.
-
 ---
